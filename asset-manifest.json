@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.4224920f.css",
-    "main.js": "/static/js/main.13e87101.js",
-    "index.html": "/index.html",
-    "main.4224920f.css.map": "/static/css/main.4224920f.css.map",
-    "main.13e87101.js.map": "/static/js/main.13e87101.js.map"
+    "main.css": "/edinar-staking-frontend-2/static/css/main.4224920f.css",
+    "main.js": "/edinar-staking-frontend-2/static/js/main.13e87101.js",
+    "index.html": "/edinar-staking-frontend-2/index.html",
+    "main.4224920f.css.map": "/edinar-staking-frontend-2/static/css/main.4224920f.css.map",
+    "main.13e87101.js.map": "/edinar-staking-frontend-2/static/js/main.13e87101.js.map"
   },
   "entrypoints": [
     "static/css/main.4224920f.css",
